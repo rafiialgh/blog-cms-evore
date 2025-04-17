@@ -11,9 +11,9 @@ In order to run this project you need to start both the client and the API.
 
 1. `cd api`
 2. `npx prisma migrate dev --name init`
-3. `npx prisma migrate`
-4. `npm run seed` to add admin account to database
-2. `npm run start`
+3. `npx prisma generate`
+3. `npm run seed` to add admin account to database
+4. `npm run start`
 
 **🔍 To see the API documentation, here is the Postman documentation link:**
 <https://documenter.getpostman.com/view/30011289/2sB2cd3cxc>
