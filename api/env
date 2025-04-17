@@ -1,3 +1,0 @@
-DATABASE_URL=""
-PORT="2000"
-JWT_SECRET="secret"
